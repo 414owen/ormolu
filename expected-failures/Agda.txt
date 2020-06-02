@@ -5,7 +5,19 @@ Formatting is not idempotent:
 Please, consider reporting the bug.
 
 Formatting is not idempotent:
-  src/full/Agda/Syntax/Translation/InternalToAbstract.hs<rendered>:750:4
+  src/full/Agda/Auto/NarrowingSearch.hs<rendered>:399:18
+  before: "             -- umod"
+  after:  "          -- umodify"
+Please, consider reporting the bug.
+
+Formatting is not idempotent:
+  src/full/Agda/Syntax/Translation/InternalToAbstract.hs<rendered>:743:4
   before: " nes\n\n              "
   after:  " nes\n\n    -- Andreas"
+Please, consider reporting the bug.
+
+Formatting is not idempotent:
+  src/full/Agda/TypeChecking/MetaVars/Occurs.hs<rendered>:349:20
+  before: "         ]) {- else "
+  after:  "         ] {- else -"
 Please, consider reporting the bug.
